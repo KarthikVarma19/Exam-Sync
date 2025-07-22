@@ -1,0 +1,28 @@
+# Ignore all environment files
+*.env
+.env
+.env.*
+
+# Ignore the Readme file
+Readme.md
+
+# Ignore VSCode settings folder
+/.vscode
+
+# Ignore node_modules folder
+/node_modules
+
+# Ignore the distribution folder
+./dist
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore coverage reports
+coverage/
+
+# Ignore build artifacts
+build/
